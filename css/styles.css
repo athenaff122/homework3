@@ -92,7 +92,7 @@ footer{
 nav{
   background-color: #ddd;
   padding: 20px 0;
-  text-align: left;
+  text-align: start;
   /*？？Your code here*/
   /*Span the top row*/
   grid-column:1 / -1;
