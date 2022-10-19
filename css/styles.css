@@ -75,6 +75,11 @@ link to the exact top of the page.*/
 /*Add the selector and code to put a 2px black
 border around all elements in focus.*/
 
+.skip a:focus{
+  border: 2px black;
+}
+
+
 footer{
   background-color: black;
   color: white;
